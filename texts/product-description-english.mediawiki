@@ -1,0 +1,98 @@
+==Preview==
+<p>Shadowgrounds Survivor is a spin-off/sequel to the underground PC hit Shadowgrounds.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>Shadowgrounds Survivor is a third-person/top-down action game where the player takes control of three characters and faces monstrous alien invaders. The acclaimed atmosphere and gameplay mechanics of the original Shadowgrounds make a triumphant return armed with a new feature set, including detailed physics simulation and many gameplay enhancements, such as the devastating Mech and special attacks like the Napalm Flame or the mighty Brute Slayer. In addition to the thrilling Campaign mode, players can try to outsmart the aliens in the Survival mode. Gear up and get ready!</p>
+<p></p>
+<p><strong>Features</strong></p>
+<ul>
+<li>3 playable characters, each with impressive new tactics</li>
+<li>RPG-like upgrade system for weapons and characters; including special attacks such as the all-engrossing Napalm Flame and the mighty Brute Slayer.</li>
+<li>New gameplay features such as the Sentry Turret and the powerful Mech!</li>
+<li>Campaign mode short of filler and full of action, running parallel to the Shadowgrounds story and expanding it to new locations, including snow and ice environments, gritty sewers and the suffering New Atlantis colony</li>
+<li>Survival mode where the player is pitted against hordes of alien monsters &ndash; the clock is ticking and they just keep on coming!</li>
+<li>New graphics enhancements, including raging snowstorm effects, new weapon effects and much more!</li>
+<li>Integrated physics that bring the world alive with hundreds of physics objects, taking the destruction to the next level</li>
+<li>New original soundtrack composed by praised Shadowgrounds composer Ari Pulkkinen</li>
+</ul>
+<p></p>
+<p></p>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/survivor-trailer-en.ogg"></source> Your browser does not support the video tag! Go and get a <a href="http://www.mozilla-europe.org/de/firefox/">good one</a>!</video></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>16+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/survivor/">Demo for Shadowgrounds Survivor</a><br /></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/survivor/" target="_blank">Updates for Shadowgrounds Survivor</a><a href="http://demos.fun4tux.ch/survivor/"></a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>DVD-Rom and manual in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>1.8 GHz x86 Processor</td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Hardware Accelerated 3D Graphics card with 256 MB video memory and Shader Model 2.0 Support</td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>800 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>1.2 GB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>ALSA or OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>DVD-Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>
